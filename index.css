@@ -1,0 +1,48 @@
+*body{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px
+}
+
+
+
+.lead {
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.skill{
+  
+  background-color:  rgba(127, 255, 212, 0.801);
+}
+
+.footer{
+  background-color: aquamarine;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.profile{
+  background-color: aquamarine;
+}
+/*
+@media (min-width:319px) and (max-width:480px)
+{
+  h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: .5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+}
